@@ -1,0 +1,28 @@
+<?xml version="1.0"?> 
+
+<robot name="camera1">
+
+  <link name="map" />
+  <link name="camera1_base" />
+  <link name="camera1_camera" />
+  <link name="camera1_marker" />
+
+  <joint name="camera1_map_to_base" type="floating">
+    <parent link="map"/>
+    <child link="camera1_base"/>
+  </joint>
+
+  <joint name="camera1_base_to_camera" type="floating">
+    <parent link="camera1_base"/>
+    <child link="camera1_camera"/>
+  </joint>
+
+  <joint name="camera1_camera_to_marker" type="floating">
+    <parent link="camera1_camera"/>
+    <child link="camera1_marker"/>
+  </joint>
+
+</robot>
+
+
+
