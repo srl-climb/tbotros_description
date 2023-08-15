@@ -266,7 +266,7 @@
  <link name="trianglemesh10"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh10.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh10.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -283,7 +283,7 @@
  <link name="trianglemesh9"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh9.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh9.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -326,7 +326,7 @@
  <link name="trianglemesh6"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh6.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh6.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -369,7 +369,7 @@
  <link name="trianglemesh7"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh7.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh7.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -412,7 +412,7 @@
  <link name="trianglemesh8"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh8.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh8.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -508,7 +508,7 @@
  <link name="trianglemesh5"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh5.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh5.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -559,7 +559,7 @@
  <link name="trianglemesh0"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh0.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh0.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -627,7 +627,7 @@
  <link name="trianglemesh1"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh1.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh1.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -695,7 +695,7 @@
  <link name="trianglemesh2"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh2.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh2.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -763,7 +763,7 @@
  <link name="trianglemesh3"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh3.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh3.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -831,7 +831,7 @@
  <link name="trianglemesh4"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh4.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh4.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -967,7 +967,7 @@
  <link name="trianglemesh11"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh11.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh11.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -1086,7 +1086,7 @@
  <link name="trianglemesh12"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh12.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh12.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -1205,7 +1205,7 @@
  <link name="trianglemesh13"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh13.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh13.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -1324,7 +1324,7 @@
  <link name="trianglemesh14"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh14.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh14.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
@@ -1443,7 +1443,7 @@
  <link name="trianglemesh15"> 
   <visual> 
    <geometry> 
-    <mesh filename="package://ros2_tetherbot/urdf/trianglemesh15.stl" scale="0.001 0.001 0.001"/> 
+    <mesh filename="package://tbotros_description/desc/trianglemesh15.stl" scale="1 1 1"/> 
    </geometry> 
    <material name="Cyan"> 
     <color rgba="0 1.0 1.0 1.0"/> 
