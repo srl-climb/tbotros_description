@@ -1329,7 +1329,7 @@
  <joint name="gripper0_to_dockpoint0" type="fixed"> 
   <parent link="gripper0"/> 
   <child link="dockpoint0"/> 
-  <origin xyz="0.0 0.0 0.143" rpy="0.0 -0.0 0.0"/> 
+  <origin xyz="0.0 0.0 0.143" rpy="3.141592653589793 -0.0 0.0"/> 
  </joint> 
 
  <link name="marker0"> 
@@ -1448,7 +1448,7 @@
  <joint name="gripper1_to_dockpoint1" type="fixed"> 
   <parent link="gripper1"/> 
   <child link="dockpoint1"/> 
-  <origin xyz="0.0 0.0 0.143" rpy="0.0 -0.0 0.0"/> 
+  <origin xyz="0.0 0.0 0.143" rpy="3.141592653589793 -0.0 0.0"/> 
  </joint> 
 
  <link name="marker1"> 
@@ -1567,7 +1567,7 @@
  <joint name="gripper2_to_dockpoint2" type="fixed"> 
   <parent link="gripper2"/> 
   <child link="dockpoint2"/> 
-  <origin xyz="0.0 0.0 0.143" rpy="0.0 -0.0 0.0"/> 
+  <origin xyz="0.0 0.0 0.143" rpy="3.141592653589793 -0.0 0.0"/> 
  </joint> 
 
  <link name="marker2"> 
@@ -1686,7 +1686,7 @@
  <joint name="gripper3_to_dockpoint3" type="fixed"> 
   <parent link="gripper3"/> 
   <child link="dockpoint3"/> 
-  <origin xyz="0.0 0.0 0.143" rpy="0.0 -0.0 0.0"/> 
+  <origin xyz="0.0 0.0 0.143" rpy="3.141592653589793 -0.0 0.0"/> 
  </joint> 
 
  <link name="marker3"> 
@@ -1805,7 +1805,7 @@
  <joint name="gripper4_to_dockpoint4" type="fixed"> 
   <parent link="gripper4"/> 
   <child link="dockpoint4"/> 
-  <origin xyz="0.0 0.0 0.143" rpy="0.0 -0.0 0.0"/> 
+  <origin xyz="0.0 0.0 0.143" rpy="3.141592653589793 -0.0 0.0"/> 
  </joint> 
 
  <link name="marker4"> 
